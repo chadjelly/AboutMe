@@ -257,7 +257,7 @@ function draw() {
   noStroke();
   fill(0,0,0);
   textSize(40);
-  text("Make the teacher eat 15 apples in a row to learn 15 things about Chad!", 65, 640 );
+  text("Make the teacher eat 15 apples in a row to learn 15 things about Chad", 65, 640 );
   textSize(11);
   text("Use arrow keys to control the teacher", 40, 555);
 }
